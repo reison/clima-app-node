@@ -36,4 +36,4 @@ getInfo(argv.direccion)
 //    .then(console.log)
 //    .catch(console.log);
 
-// voy al video 58!!!
+// voy a la seccion 7!!!
